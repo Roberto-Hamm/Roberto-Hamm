@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Roberto-Hamm
 - 👀 I’m interested in ...
-- 🌱 OpenScad modellin
+- 🌱 OpenScad modelling
 - 💞️ I’m looking to collaborate on asscitive programming
-- 📫 How to reach per mail : roberto.hamm@sfr.fr
+- 📫You can reach me per mail : roberto.hamm@sfr.fr
 - Website : https://robotix.ah-oui.org/
-- 😄 I'm actually working on some OpenSCAN libraries en exoeimentin with basi arduino controlled robotics projects (see my website)
+- 😄 I'm actually working on some OpenSCAD libraries and expermenting with basic Arduino controlled robotic projects (see my website)
 - ⚡ I live in france
 
 <!---
