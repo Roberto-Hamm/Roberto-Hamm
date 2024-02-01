@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Roberto-Hamm
 - 👀 I’m interested in ...
 - 🌱 OpenScad modelling
-- 💞️ I’m looking to collaborate on asscitive programming
+- 💞️ I’m teaching 3D modelling on collaborative and assiciative OpenSCAD programming courses
 - 📫You can reach me per mail : roberto.hamm@sfr.fr
 - Website : https://robotix.ah-oui.org/
 - 😄 I'm actually working on some OpenSCAD libraries and expermenting with basic Arduino controlled robotic projects (see my website)
